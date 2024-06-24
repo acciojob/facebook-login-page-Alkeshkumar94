@@ -19,6 +19,8 @@ form{
 	display:flex;
 	flex-direction:column;
 	position:relative;
+	padding:10px;
+	margin:10px;
 }
 .form2 h4{
 	display:flex;
